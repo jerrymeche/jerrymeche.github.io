@@ -2,7 +2,7 @@
 title: "Projects"
 collection: projects
 type: "Undergraduate Projects"
-permalink: /projects/undergrade-projects
+permalink: /projects/undergrad-projects
 venue: "University of Pittsburgh, Mechanical Engineering"
 date: 2014-01-01
 location: "Pittsburgh, PA"

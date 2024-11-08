@@ -2,7 +2,7 @@
 title: "Projects"
 collection: projects
 type: "Undergraduate Projects"
-permalink: /projects/undergrad-projects/
+permalink: /projects/undergrad-projects
 venue: "University of Pittsburgh, Mechanical Engineering"
 date: 2023-01-01
 location: "Pittsburgh, PA"

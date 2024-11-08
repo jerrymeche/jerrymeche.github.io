@@ -4,7 +4,7 @@ collection: projects
 type: "Undergraduate Projects"
 permalink: /projects/undergrad-projects
 venue: "University of Pittsburgh, Mechanical Engineering"
-date: 2014-01-01
+date: 2023-01-01
 location: "Pittsburgh, PA"
 ---
 

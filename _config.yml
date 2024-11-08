@@ -249,7 +249,7 @@ defaults:
   # _teaching
   - scope:
       path: ""
-      type: teaching
+      type: projects
     values:
       layout: single
       author_profile: true

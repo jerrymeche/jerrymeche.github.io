@@ -11,10 +11,10 @@ location: "Pittsburgh, PA"
 
 Welcome to my Project! Here, you can explore some of the AI/ML and mechanical engineering projects I have worked on.
 
-[Optimizing Ore Mining through Transformer-Based Task Planning: A Generative Model Approach](/_projects/transformer-task-planning)
+[Optimizing Ore Mining through Transformer-Based Task Planning: A Generative Model Approach](/projects/transformer-task-planning)
 
-[Optimizing Rock Mining using Edge Cost Evaluation and Stone Clustering Techniques](/_projects/rock-mining-edge-cost)
+[Optimizing Rock Mining using Edge Cost Evaluation and Stone Clustering Techniques](/projects/rock-mining-edge-cost)
 
-[Design of Radiation-Resistant Multi-Point Temperature Sensor](/_projects/radiation-temperature-sensor-design)
+[Design of Radiation-Resistant Multi-Point Temperature Sensor](/projects/radiation-temperature-sensor-design)
 
-[Axial Velocity Profiles for Developing and Fully Developed Regions](/_projects/axial-velocity-cfd)
+[Axial Velocity Profiles for Developing and Fully Developed Regions](/projects/axial-velocity-cfd)

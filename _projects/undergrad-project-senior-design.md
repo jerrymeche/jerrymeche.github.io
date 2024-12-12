@@ -2,7 +2,7 @@
 title: "Design of Radiation-Resistant Multi-Point Temperature Sensor"
 collection: projects
 # type: "Undergraduate Project"
-permalink: /projects/undergrad-project-senior-design
+permalink: /projects/
 excerpt: 'This project introduces a robust multi-location temperature detection system designed for high-radiation environments. By leveraging analog circuits and minimizing digital components, the system ensures precise and reliable temperature monitoring while maintaining durability under extreme conditions.'
 date: 2023-04-30
 venue: 'University of Pittsburgh, Mechanical Engineering Department'

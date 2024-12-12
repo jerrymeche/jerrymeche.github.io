@@ -21,7 +21,7 @@ repository               : "jerrymeche/jerrymeche.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "myphoto.png"
   name             : "Jierui Li"
   pronouns         : # example: "she/her"  
   bio              : "MS Student @ Carnegie Mellon University"
@@ -44,7 +44,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "jerrymeche"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 

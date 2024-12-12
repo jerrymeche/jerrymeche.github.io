@@ -39,7 +39,7 @@ We evaluated our approach through a series of experiments that involved analyzin
 
 ### Results  
 The combined use of edge cost evaluation and stone clustering resulted in improved decision-making regarding the optimal digging locations. The GMM clustering effectively revealed the distribution of different stone types, though there were some classification inaccuracies. Despite these challenges, the overall approach shows strong potential for improving mining efficiency by providing a systematic way to evaluate digging positions. The results indicate that the integration of these techniques can enhance the capability of autonomous wheel loaders, making them more effective at extracting valuable ore while minimizing waste.
-<div style="display: flex; justify-content: space-around; align-items: center;">
+<div style="display: flex; justify-content: space-around; align-items: flex-start; gap: 20px;">
     <div style="text-align: center;">
         <img src="images/Stones_Cluster_Result.png" alt="Original and Clustered Stone Pile Segments" width="300">
         <p><em>Figure 3: Original and Clustered Stone Pile Segments</em></p>

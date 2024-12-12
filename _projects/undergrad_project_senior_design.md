@@ -22,14 +22,14 @@ This project proposes a proof-of-concept design for a multi-location temperature
 
 ### Design
 The system integrates a Wheatstone Bridge and MOSFET-based signal processing to detect and merge temperature signals into a single analog output. This configuration ensures signal stability and reduces noise interference. Key design considerations include a compact form factor, waterproofing for humidity tolerance, and resistance adjustments to refine the temperature range.
-<div style="display: flex; justify-content: space-between;">
-    <div>
+<div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 10px;">
+    <div style="text-align: center;">
         <img src="images/Circuit_design.png" alt="Temperature Detector Circuit" width="300">
-        <p style="text-align: center;"><em>Figure 2: Temperature Detector Circuit</em></p>
+        <p><em>Figure 2: Temperature Detector Circuit</em></p>
     </div>
-    <div>
+    <div style="text-align: center;">
         <img src="images/Radiation_Shield_and_Sensor.png" alt="Radiation Shield and Sensor Design" width="300">
-        <p style="text-align: center;"><em>Figure 3: Radiation Shield and Sensor Design</em></p>
+        <p><em>Figure 3: Radiation Shield and Sensor Design</em></p>
     </div>
 </div>
 

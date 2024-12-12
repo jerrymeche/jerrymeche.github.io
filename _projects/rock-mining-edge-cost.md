@@ -2,7 +2,7 @@
 title: "Optimizing Rock Mining using Edge Cost Evaluation and Stone Clustering Techniques"
 collection: projects
 # type: "Graduate Project"
-permalink: /projects/
+permalink: /projects/rock-mining-edge-cost
 excerpt: 'This project explores the integration of edge cost evaluation and stone clustering techniques to optimize digging locations in rock mining operations. By leveraging computer vision and scoring methods, it enhances the efficiency of autonomous wheel loaders, improving ore quality extraction while minimizing waste and operational costs.'
 date: 2023-12-15
 venue: 'Carnegie Mellon University, Mechanical Engineering Department'

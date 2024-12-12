@@ -13,14 +13,20 @@ venue: 'Carnegie Mellon University, Mechanical Engineering Department'
 
 ### Introduction
 Mining plays an essential role in our society, providing critical materials like gold, copper, and iron, which are fundamental for modern infrastructure and technology. The goal of this project is to develop a method to optimize digging locations in rock mining operations by using camera image data and computer vision techniques. Our focus is on determining optimal digging locations to maximize the total score, which combines the quantity and quality of stones scooped. This project aims to address the inefficiencies of autonomous wheel loaders, which lack the ability to distinguish high-quality ore from waste rock as human operators do, thereby enhancing operational efficiency, reducing costs, and promoting sustainable mining practices.
-<img src="images/Challenges_in_Mining_Site.png" alt="The challenge to deploy autonomous wheel loaders to real site" width="600">
-*Figure 1: The challenge to deploy autonomous wheel loaders to real site*
+<div style="text-align: center;">
+    <img src="images/Challenges_in_Mining_Site.png" alt="The challenge to deploy autonomous wheel loaders to real site" width="600">
+    <p><em>Figure 1: The challenge to deploy autonomous wheel loaders to real site</em></p>
+</div>
+
 
 
 ### Design
 The project is designed around a combination of edge cost evaluation and stone clustering techniques to determine optimal digging locations. The edge cost evaluation method identifies areas that maximize bucket volume by avoiding cavities, while the stone clustering process categorizes stones based on their visual features. Together, these methods determine the best digging locations based on factors such as surface flatness and stone quality. The use of stereo vision and Gaussian Mixture Model (GMM) clustering enhances the ability of autonomous wheel loaders to differentiate between high-value ore and waste rock. My role in this project includes designing and implementing the stone clustering and edge evaluation methodologies, contributing to both the technical development and the overall project strategy.
-<img src="images/CVE_Experiment_Design.png" alt="Experiment Design" width="600">
-*Figure 2: Experiment Design*
+<div style="text-align: center;">
+    <img src="images/CVE_Experiment_Design.png" alt="Experiment Design" width="600">
+    <p><em>Figure 2: Experiment Design</em></p>
+</div>
+
 
 ### Evaluation
 We evaluated our approach through a series of experiments that involved analyzing the effectiveness of edge flatness detection and stone categorization. The evaluation also covered the use of GMM for clustering, which proved effective in categorizing stones of varying colors. Although some challenges in accurate classification were observed, mainly due to lighting conditions and camera limitations, the combined scoring approach, using both edge and color scores, demonstrated promising results for identifying optimal digging locations and improving overall efficiency.
@@ -46,5 +52,7 @@ The combined use of edge cost evaluation and stone clustering resulted in improv
 
 ### Conclusion
 The integration of edge cost evaluation with stone clustering techniques provides an effective way to determine optimal digging locations for autonomous wheel loaders. This project has demonstrated promising results in optimizing rock mining operations, with the potential to reduce operational costs and improve the quality of ore extraction. Future work may include enhancing classification accuracy through deep learning approaches such as Convolutional Neural Networks or deep reinforcement learning for more precise and adaptive decision-making. My contributions have focused on developing and refining the clustering and evaluation methods, which are integral to achieving the project’s objectives, ensuring that the final solution is both technically sound and impactful for the mining industry.
-<img src="images/CVE_Conclusion.png" alt="Best location for red stones mining" width="600">
-*Figure 5: Best location for Red Stones Mining*
+<div style="text-align: center;">
+    <img src="images/CVE_Conclusion.png" alt="Best location for red stones mining" width="600">
+    <p><em>Figure 5: Best location for Red Stones Mining</em></p>
+</div>

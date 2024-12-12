@@ -13,8 +13,11 @@ venue: 'University of Pittsburgh, Mechanical Engineering Department'
 
 ### Introduction
 This project proposes a proof-of-concept design for a multi-location temperature detection system, specifically tailored for high-radiation environments. By utilizing analog circuits and reducing the reliance on digital components, the system aims to provide accurate and reliable temperature readings while minimizing radiation-induced damage. The design emphasizes simplicity and robustness to meet the demands of extreme conditions.
-<img src="images/Wire_Connection_In_Nuclear_Power_Plant.png" alt="Process Sensing System and Connections in a Nuclear Power Plant" width="600">
-*Figure 1: Process Sensing System and Connections in a Nuclear Power Plant*
+<div style="text-align: center;">
+    <img src="images/Wire_Connection_In_Nuclear_Power_Plant.png" alt="Process Sensing System and Connections in a Nuclear Power Plant" width="600">
+    <p><em>Figure 1: Process Sensing System and Connections in a Nuclear Power Plant</em></p>
+</div>
+
 
 
 ### Design
@@ -36,8 +39,11 @@ The design process involved iterative simulations and validations using TINA TI 
 
 ### Evaluation
 The design was validated through circuit simulations and prototype testing, demonstrating its ability to detect temperature changes reliably across multiple locations. Simulations confirmed bounded signal outputs with minimal noise, while adjustments in resistor values allowed for fine-tuning of detection ranges. However, errors were noted in higher RTD configurations, suggesting potential areas for improvement.
-<img src="images/Prototype_Testing.png" alt="Protptype Testing" width="600">
-*Figure 4: Temperature Detector Prototype Testing*
+<div style="text-align: center;">
+    <img src="images/Prototype_Testing.png" alt="Prototype Testing" width="600">
+    <p><em>Figure 4: Temperature Detector Prototype Testing</em></p>
+</div>
+
 
 ### Results
 The prototype successfully merged temperature readings from multiple RTDs into a single analog output, meeting the project's functional requirements. Testing showed accurate detection for the first two RTDs, with slight discrepancies in the third and fourth sensors. The device maintained functionality under high humidity and radiation conditions, with output currents ranging from 33.2mA to 100mA.

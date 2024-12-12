@@ -43,8 +43,8 @@ To evaluate the proposed model, we conducted small-scale tests focusing on the e
 ### Results  
 Preliminary evaluations indicate that the spatial encoding and distance normalization methods effectively capture the complex relationships inherent in ore mining. Quantitative results show that the cost incurred using the MCTS approach is 115% of the optimal solution, while integrating the generative language model with MCTS reduces this cost to 105% of the optimal solution. This translates to a reduction of approximately 8.7% in operational costs compared to using MCTS alone. Such an improvement highlights the ability of the Transformer-based generative model to make more informed decisions, thus leading to better planning and reduced resource consumption.
 <div style="text-align: center;">
-    <img src="images/research_transformer.png" alt="Preliminary Training Result" width="600">
-    <p><em>Figure 4: research_searching_performance</em></p>
+    <img src="images/research_searching_performance.png" alt="Preliminary Training Result" width="600">
+    <p><em>Figure 4: Preliminary Training Result</em></p>
 </div>
 
 

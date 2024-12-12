@@ -1,14 +1,12 @@
 ---
 title: "Optimizing Ore Mining through Transformer-Based Task Planning: A Generative Model Approach"
 collection: projects
-# category: manuscripts
-permalink: /project/master_project_cerlab
+type: "Graduate Project"
+permalink: /project/master-project-cerlab
 excerpt: 'This project develops a generative Transformer-based language model integrated with Monte Carlo Tree Search (MCTS) to optimize ore mining task planning. By improving decision-making with spatial encoding and distance normalization, the approach enhances operational efficiency, reduces costs, and promotes sustainable mining practices.'
 date: 2024-12-15
 venue: 'Carnegie Mellon University, Mechanical Engineering Department, CERLAB'
-#slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-#paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-#citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+location: "Pittsburgh, PA"
 ---
 
 ### Introduction  

@@ -1,14 +1,12 @@
 ---
 title: "Axial Velocity Profiles for Developing and Fully Developed Regions"
 collection: projects
-# category: manuscripts
-permalink: /project/undergrad_project_cfd
+type: "Undergraduate Project"
+permalink: /project/undergrad-project-cfd
 excerpt: 'This report presents a computational fluid dynamics (CFD) analysis of pipe flow using ANSYS 2022, examining axial velocity profiles, pressure distributions, and entrance lengths for various Reynolds numbers to validate flow development and predict empirical relationships with high accuracy.'
 date: 2022-12-15
 venue: 'University of Pittsburgh, Mechanical Engineering Department'
-# slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-# paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-# citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+location: "Pittsburgh, PA"
 ---
 
 ### Intruduction

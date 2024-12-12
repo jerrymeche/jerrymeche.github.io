@@ -11,5 +11,5 @@ Here, you can explore some of the AI/ML and mechanical engineering projects I ha
 {% include base_path %}
 
 {% for project in site.projects %}
-  {% include archive-single.html post=post %}
+  {% include archive-single.html %}
 {% endfor %}

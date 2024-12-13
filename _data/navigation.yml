@@ -15,8 +15,8 @@ main:
     #url: /cv/
     url: /files/Jerry_Li_Resume.pdf
     
-  - title: "Portfolio"
-    url: /portfolio/
+  # - title: "Portfolio"
+  #   url: /portfolio/
         
   # - title: "Talks"
   #   url: /talks/    

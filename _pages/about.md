@@ -14,10 +14,9 @@ My academic interests are situated at the intersection of mechanics and programm
 
 ## Research Interest
 - Deep Learning
-- Robotics
-- Molecular Dynamics
 - Generative Modeling
-
+- Molecular Dynamics
+- Robotics
 
 <!-- A data-driven personal website
 ======

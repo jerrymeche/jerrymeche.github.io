@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-## About me
+## Welcome to My Homepage!
+Hi, there! Welcome to my homepage!
 I am currently a Master's student in Mechanical Engineering at Carnegie Mellon University, where I am focusing on Robotics and Deep Reinforcement Learning under the guidance of Prof. Kenji Shimada. Before joining CMU, I earned dual bachelor's degrees from Sichuan University in China and the University of Pittsburgh, both in Mechanical Engineering.
                                    
 My academic interests are situated at the intersection of mechanics and programming, particularly in the application of deep generative models and Transformer-based language models to address engineering challenges. Currently, I am focused on enhancing my understanding of how AI can be integrated into mechanical engineering. I am convinced that deep learning models have the capability to learn representations from data, allowing us to approach scientific problems from a data science perspective. This marks a significant departure from traditional research methodologies.

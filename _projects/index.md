@@ -9,7 +9,7 @@ venue: 'Carnegie Mellon University, Mechanical Engineering Department'
 location: "Pittsburgh, PA"
 ---
 
-Welcome to my Projects! Here, you can explore some of the AI/ML and mechanical engineering projects I have worked on.
+### Welcome to my Projects! Here, you can explore some of the AI/ML and mechanical engineering projects I have worked on.
 
 [Optimizing Ore Mining through Transformer-Based Task Planning: A Generative Model Approach](/projects/transformer-task-planning)    
 **Abstract**: This project combines a Transformer model with MCTS to optimize ore mining, improving efficiency, cutting costs, and supporting sustainability.                      

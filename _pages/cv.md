@@ -8,8 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-<!-- [Download CV here](https://github.com/jerrymeche/jerrymeche.github.io/blob/master/files/JieruiLI_Resume.pdf) -->
-[Download CV here](https://jerrymeche.github.io/files/JieruiLI_Resume.pdf)
+[Download CV here](/files/JieruiLI_Resume.pdf)
 
 <!-- Education
 ======

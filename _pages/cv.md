@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+<!-- {% include base_path %} -->
 [Download CV here](/files/JieruiLI_Resume.pdf)
 
 <!-- Education

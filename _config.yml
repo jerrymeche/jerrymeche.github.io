@@ -22,6 +22,7 @@ repository               : "jerrymeche/jerrymeche.github.io"
 author:
   # Biographic information
   avatar           : "photo_cmu.jpg"
+  avatar_style     : "rounded"
   name             : "Jierui Li"
   pronouns         : # example: "she/her"  
   bio              : "MS Student @ Carnegie Mellon University"

@@ -21,7 +21,7 @@ repository               : "jerrymeche/jerrymeche.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "myphoto.png"
+  avatar           : "photo_cmu.png"
   name             : "Jierui Li"
   pronouns         : # example: "she/her"  
   bio              : "MS Student @ Carnegie Mellon University"

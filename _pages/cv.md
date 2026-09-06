@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <!-- {% include base_path %} -->
-[Download CV here](/files/JieruiLI_Resume.pdf)
+[Download CV here](/files/JieruiLi_Resume.pdf)
 
 <!-- Education
 ======
